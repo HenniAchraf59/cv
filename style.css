@@ -1,0 +1,22 @@
+/*-----font-face-------*/
+@font-face {
+  font-family: Bond4F;
+  src: url("font/bond4f/OTF/Bond4F.otf");
+}
+
+body{
+  background-image: url(background.jpg);}
+h1{
+  color:blue;
+  text-align: center;
+  border: 2px solid black;
+  box-shadow: 5px 5px 5px 5px blue;
+  font-family:Bond4F; }
+p{
+  text-align: center;;
+  box-shadow: 10px black;}
+ul {
+  text-align: center;
+  list-style-type: none;}
+h2{
+  text-align: center;}
